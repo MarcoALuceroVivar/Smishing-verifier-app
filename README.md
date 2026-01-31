@@ -72,10 +72,10 @@ Since this is a prototype running on an emulator, we simulate SMS messages rathe
 3.  Click the **three dots (...)** on the Emulator toolbar > **Phone**.
 4.  **Send a Spam Message:**
     * **Message:** *"URGENT! You have won a free iPhone. Click here to claim."*
-    * **Result:** The app displays **🚫 SPAM BLOCKED**.
+    * **Result:** The app displays **🚫 SPAM**.
 5.  **Send a Safe Message:**
     * **Message:** *"Hey, let's meet for lunch tomorrow."*
-    * **Result:** The app displays **✅ Message Safe**.
+    * **Result:** The app displays **✅ HAM**.
 
 ---
 
