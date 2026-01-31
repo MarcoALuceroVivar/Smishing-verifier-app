@@ -97,3 +97,22 @@ Since this is a prototype running on an emulator, we simulate SMS messages rathe
 │   └── build.gradle
 │
 └── README.md
+````
+<br>
+<hr>
+
+<h2 align="center">📺 Watch the Live Demo</h2>
+
+<div align="center">
+  <a href="https://drive.google.com/file/d/1YBg3FRYuYNN1wiZ76SpPFYxvHclgKKyP/view?usp=drive_link" target="_blank">
+    
+    <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/demo-thumbnail.png?raw=true" 
+         alt="Watch the video" 
+         width="500" 
+         style="border: 2px solid #333; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
+  </a>
+</div>
+
+<p align="center">
+  <em>Click the screen above to watch the full demonstration on Google Drive.</em>
+</p>
