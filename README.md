@@ -106,7 +106,8 @@ Since this is a prototype running on an emulator, we simulate SMS messages rathe
 <div align="center">
   <a href="https://drive.google.com/file/d/1YBg3FRYuYNN1wiZ76SpPFYxvHclgKKyP/view?usp=drive_link" target="_blank">
     
-    <img src="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/demo-thumbnail.png?raw=true" 
+    <img width="2560" height="1440" alt="{29686C15-7A78-46C6-BFBC-0ED441319569}" src="https://github.com/user-attachments/assets/f2314bf1-0052-4c51-af72-e5d12af3aaa1" />
+ 
          alt="Watch the video" 
          width="500" 
          style="border: 2px solid #333; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.3);" />
