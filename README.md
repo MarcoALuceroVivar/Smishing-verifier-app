@@ -42,17 +42,17 @@ The system consists of two parts:
 ### Part 1: The Backend (Python)
 1.  Clone the repository and navigate to the `backend` folder.
 2.  Install the required dependencies:
-    ```bash
+ 
     pip install pandas scikit-learn flask joblib
-    ```
+   
 3.  Train the model (run this once):
-    ```bash
+
     python train_model.py
-    ```
+
 4.  Start the server:
-    ```bash
+
     python server.py
-    ```
+
     *The server will start on `http://0.0.0.0:5000`.*
 
 ### Part 2: The Android App
